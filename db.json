@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "votes": "20",
+      "id": 2
+    },
+    {
+      "votes": "10",
+      "id": 3
+    },
+    {
+      "votes": "6",
+      "id": 4
+    },
+    {
+      "votes": "7",
+      "id": 5
+    },
+    {
+      "votes": "",
+      "id": 6
+    },
+    {
+      "votes": "20",
+      "id": 7
+    },
+    {
+      "votes": "6",
+      "id": 8
+    },
+    {
+      "votes": "10",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
